@@ -8,3 +8,5 @@ group :development do
   gem 'rspec', '~> 3.0'
   gem 'rubocop', '~> 1.0'
 end
+
+gem 'legion-gaia', path: '../../legion-gaia'
